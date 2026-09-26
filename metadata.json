@@ -1,0 +1,6 @@
+{
+  "name": "Al-Awla Travel",
+  "description": "Official mobile application for Al-Awla Tour & Travel Services. Luxury Umrah packages, international journeys, live concierge chat, real-time booking tracking, and document management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
